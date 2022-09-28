@@ -3,7 +3,7 @@
  
         
         "phonebook": {
-            "main": "src/phonebook.mo",
+            "main": "src/phone_book.mo",
             "type": "motoko",
             "dependencies": []
         }
